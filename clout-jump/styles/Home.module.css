@@ -1,0 +1,26 @@
+
+.btn{
+  background: linear-gradient(191.66deg, #d72173 -36.9%, #454dbe 14.49%, #762998 60.53%, #ed8631 103.36%, #c29c34 168.67%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+}
+
+
+.footer{
+  margin-top: -120px;
+  /* width: 100%; */
+  /* height: fit-content; */
+  /* border: 1px solid orange; */
+}
+
+/* .divider{
+  width: 1050px;
+  height: 5px;
+  margin-top: 15%;
+  margin-right: 10px;
+  background-color: white;
+
+} */
